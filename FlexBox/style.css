@@ -1,0 +1,73 @@
+.main-container {
+    display: flex;
+    width: 800px;
+    height: 800px;
+    border:5px solid black;
+    gap: 5px;
+
+}
+.flex1{
+    display: flex;
+    size: 100%;
+    
+    
+}
+.flex2{
+    display: flex;
+    
+
+}
+.flex3{
+    display: flex;
+    justify-content: center;
+}
+.item1 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.item2 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.item3 {
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+}
+.item4 {
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
+.item5 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+.item6 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.item7 {
+    height: 100px;
+    width: 100px;
+    background-color:red;
+}
+.item8 {
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+}
+.item9 {
+    height: 100px;
+    width: 100px;
+    background-color:brown;
+}
+.item10 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
